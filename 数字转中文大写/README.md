@@ -1,3 +1,7 @@
+#使用
+```
+Usage: python convert_num_to_capital.py <integer number>
+```
 ## 人民币金额用到的中文大写汉字如下：
 
 零、壹、贰、叁、肆、伍、陆、柒、捌、玖、拾、佰、仟、万、亿。
